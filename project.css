@@ -1,0 +1,120 @@
+body{
+    background-image: url(../img/moon-light-shine-through-window-into-islamic-mosque-interior.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size: cover;
+    font-family: 'Cairo', sans-serif;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    text-shadow: 2px 1px 2px rgb(9, 30, 105);
+    color: #fcfcfc;
+    width: 100%
+}
+div ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    margin-top: -190px;
+  
+}
+li a{
+    text-decoration: none;
+    margin-top: 0%px;
+    padding: 15px;
+    color: white
+
+}
+li a:hover{
+    border-bottom: 1.5px solid rgb(21, 159, 228);
+    border-radius: 2px;
+    color: rgb(247, 249, 251);
+   text-shadow: 2px 1px 2px rgb(105, 173, 224);
+ 
+}
+.T{
+    color: #2196F3;
+    text-shadow: 2px 2px 4px #002c84;
+    font-size: 20px;
+    float: left;
+    margin-top: -20px;
+}
+.T:hover{
+    color: rgb(207, 226, 245);
+    border-bottom: 1.5px solid whitesmoke;
+    border-radius: 2px;
+    text-shadow: 1px 1px 4px rgb(238, 238, 238);
+    transition: 1s;
+}
+li{
+    display: inline;
+}
+.p1{
+    margin-top: 600px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px rgb(255, 255, 255);
+    color: #0e7392;
+}
+
+.one img{
+    margin-right: 18px;
+    border: 2px solid rgb(0, 42, 98);
+    border-radius: 100px;
+    box-shadow: 3px 4px 9px #001432;
+    background-color: #000d21;
+}
+.one img:hover{
+    border: 2px solid rgb(3, 6, 36);
+    box-shadow: 1px 4px 9px #7187b3;
+    transition: 1.5s;
+    width: 1000px;
+}
+
+.two img{
+    margin-top: 20%;
+    margin-right: 100px;
+    border: 2px solid rgb(0, 42, 98);
+    border-radius: 100px;
+    box-shadow: 3px 4px 9px #001432;
+    background-color: #000d21;
+}
+.two img:hover{
+    border: 2px solid rgb(3, 6, 36);
+    box-shadow: 1px 4px 9px #7187b3;
+    transition: 1.5s;
+    width: 1000px;
+}
+
+.three img{
+    margin-right: 18px;
+    border: 2px solid rgb(0, 42, 98);
+    border-radius: 100px;
+    box-shadow: 3px 4px 9px #001432;
+    background-color: #000d21;
+}
+.three img:hover{
+    border: 2px solid rgb(3, 6, 36);
+    box-shadow: 1px 4px 9px #7187b3;
+    transition: 1.5s;
+    width: 1000px;
+}
+
+.four img{
+    margin-right: 18px;
+    border: 2px solid rgb(0, 42, 98);
+    border-radius: 100px;
+    box-shadow: 3px 4px 9px #001432;
+    background-color: #000d21;
+}
+.four img:hover{
+    border: 2px solid rgb(3, 6, 36);
+    box-shadow: 1px 4px 9px #7187b3;
+    transition: 1.5s;
+    width: 1000px;
+}
+
